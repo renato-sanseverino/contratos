@@ -1,4 +1,4 @@
-![](http://contratos/img/admin/logo.png)
+![](https://raw.githubusercontent.com/renato-sanseverino/contratos/master/img/admin/logo.png)
 
 <br>
 
